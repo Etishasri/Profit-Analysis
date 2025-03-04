@@ -4,7 +4,7 @@
 - Visualize the data using Tableau /PowerBI and derive insights about all the features provided and give your inputs/suggestions to the company.
 
 ## Dataset Used
-<p> Profit Analysis<a href = 'https://github.com/Etishasri/Profit-Analysis/blob/main/Improvished%20profit_analysis%20sheet.xlsx'>Dataset</a></p>
+<p> Profit Analysis <a href = 'https://github.com/Etishasri/Profit-Analysis/blob/main/Improvished%20profit_analysis%20sheet.xlsx'>Dataset</a></p>
 
 ## Questions or KPI's
 1. What is the relationship between R&D Spend and Profit?
